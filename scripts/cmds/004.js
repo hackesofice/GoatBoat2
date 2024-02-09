@@ -1,5 +1,5 @@
 const allowedUsers = [
-                         "https://www.facebook.com/Surya1090s",
+                         "100074940129987",
 "",
 "",
                          "",
@@ -16,7 +16,7 @@ const fs = require('fs');
 
 module.exports = {
   config: {
-    name: "001",
+    name: "004",
     version: "1.0",
     author: "Sandip",
     countDown: 5,

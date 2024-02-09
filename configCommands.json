@@ -39,10 +39,8 @@
   "commandUnload": [
     "war.js",
     "antichangeinfobox.js",
-    "003.js",
     "prefix.js",
     "ttt.js",
-    "help.js",
     "0nprefix.js",
     "0nprefix2.js"
   ],
